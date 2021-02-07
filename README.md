@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I'm Pranav from India, and I do content on Design and Development.I really enjoy learning languages and frameworks like express as well work with android studio.
+I also enjoy wireframing, ui, ux and design in general .you can chack at https://xd.adobe.com/view/f9394743-836d-4968-6da1-422fecbe3bd0-8f08/ .
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranavkakadiya)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <!--
 **Pranavkakadiya/Pranavkakadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
