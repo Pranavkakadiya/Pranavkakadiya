@@ -10,7 +10,7 @@ I also enjoy wireframing, ui, ux and design in general .you can chack at https:/
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pranav-kakadiya-580092170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pranav-kakadiya-580092170" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:12754225" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="user:12754225" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/pranav.kakadiya.52/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/pranav.kakadiya.52/" height="30" width="40" /></a>
+<a href="https://fb.com/pranav.kakadiya.52/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/pranav.kakadiya.52/" height="30" width="40" /></a>
 <a href="https://github.com/Pranavkakadiya/Pranavkakadiya/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/Pranavkakadiya/Pranavkakadiya/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/kakadiyapranav_8055/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/kakadiyapranav_8055/" height="30" width="40" /></a>
 
