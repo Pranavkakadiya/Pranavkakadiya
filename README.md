@@ -7,7 +7,7 @@ I also enjoy wireframing, ui, ux and design in general .you can chack at https:/
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranavkakadiya)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pranavkakadiya)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Pranavkakadiya/Pranavkakadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
