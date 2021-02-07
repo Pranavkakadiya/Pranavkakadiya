@@ -31,7 +31,7 @@ I also enjoy wireframing, ui, ux and design in general .you can chack at https:/
 
 <!--https://arturssmirnovs.github.io/github-profile-readme-generator/  -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pranavkakadiya)  
+ 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Pranavkakadiya)](https://github.com/ryo-ma/github-profile-trophy)
 
