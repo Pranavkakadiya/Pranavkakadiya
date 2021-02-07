@@ -27,6 +27,29 @@ I also enjoy wireframing, ui, ux and design in general .you can chack at https:/
 <!--
 **Pranavkakadiya/Pranavkakadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+
+<!--https://arturssmirnovs.github.io/github-profile-readme-generator/  -->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Pranavkakadiya)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pranavkakadiya)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavkakadiya)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranavkakadiya&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Pranavkakadiya)  
+
+![GitHub metrics](https://metrics.lecoq.io/Pranavkakadiya)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Pranavkakadiya)  
+
+![Profile views](https://gpvc.arturio.dev/Pranavkakadiya)  
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
