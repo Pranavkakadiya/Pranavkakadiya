@@ -6,7 +6,7 @@ I also enjoy wireframing, ui, ux and design in general .you can chack at https:/
 
 
 Github
-<a href="https://pranavkakadiya.github.io/gdtc-Day3/"> My Portfolio </a>
+<a href="https://pranavkakadiya.github.io/gdtc-Day3/" target="_blank"> My Portfolio </a>
 
 
 
